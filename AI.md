@@ -1,5 +1,5 @@
 Top libraries - https://medium.com/activewizards-machine-learning-company/top-15-python-libraries-for-data-science-in-in-2017-ab61b4f9b4a7
 
-Tutorials datacmap - https://www.datacamp.com/courses/?utm_source=learnpython_com&utm_campaign=learnpython_tutorials
+Tutorials datacamp - https://www.datacamp.com/courses/?utm_source=learnpython_com&utm_campaign=learnpython_tutorials
 
 What is AI - https://www.youtube.com/watch?v=2ePf9rue1Ao  
