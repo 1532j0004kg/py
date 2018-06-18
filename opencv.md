@@ -1,4 +1,4 @@
-py tutorial - https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html
+pycv tutorial - https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html
 
 compare two images - https://www.pyimagesearch.com/2014/09/15/python-compare-two-images/
 
